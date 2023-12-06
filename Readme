@@ -1,5 +1,6 @@
 Readme
 
-This is the MATLAB code for the computation of frequency spectrum and autocorrelation scale in the Paper titled "Quantitative ichnology: A novel framework to determine the producers of locomotory trace fossils – the ichnogenus Gordia as a case study" published in Palaeontology.
+This is the MATLAB code for the computation of frequency spectrum and autocorrelation scale in the Paper titled "Quantitative ichnology: A novel framework to determine the producers of locomotory trace fossils – the ichnogenus Gordia as a case study" published in Palaeontology (https://doi.org/10.1111/pala.12686).
+
 The code is also compiled into a small free software for researchers unfamiliar with Maths:  https://zenodo.org/records/10259553
 
